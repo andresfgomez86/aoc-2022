@@ -1,0 +1,3 @@
+bike,car,bike,bike
+car,bike,doll,car
+bike,pc,pc
